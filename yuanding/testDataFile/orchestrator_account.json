@@ -1,0 +1,51 @@
+{
+  "orc_admin": {
+    "phone": "13883575239",
+    "type": 1,
+    "cont":"919191"
+
+  },
+  "exam_ID": {
+    "examId":6272
+  },
+  "piyue_size":{
+    "size":5
+  },
+  "orc_admin_error_pw": {
+    "username": "orc_admin",
+    "password": "654321"
+  },
+  "orc_admin_not": {
+    "username": "orc_admin1",
+    "password": "123456"
+  },
+  "orc_admin_lack_name": {
+    "password": "123456"
+  },
+  "orc_admin_lack_pw": {
+    "username": "orc_admin"
+  },
+  "update_password": {
+    "username": "orc_admin",
+    "new_password": "123456",
+    "current_password": "orc_admin"
+  },
+  "update_password_er": {
+    "username": "orc_admin",
+    "new_password": "orc_admin",
+    "current_password": "123456"
+  },
+  "update_username_no": {
+    "username": "orc_admin_no",
+    "new_password": "orc_admin",
+    "current_password": "123456"
+  },
+  "update_lack_new_pw": {
+    "username": "orc_admin",
+    "current_password": "123456"
+  },
+  "update_lack_current_pw": {
+    "username": "orc_admin",
+    "new_password": "orc_admin"
+  }
+}

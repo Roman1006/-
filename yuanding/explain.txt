@@ -1,0 +1,5 @@
+# case_list.txt 控制该条测试用例的执行或不执行
+# installEnv.sh 如果要在Liux系统下执行脚本，只需要运行一下该shell脚本即可
+# package.py 安装运行该脚本所需要用到的python相关库
+# reset_env.py 重置测试环境（每次启动自动化测试之前，进行测试环境的清理，保持环境的干净）
+# runcase.py 启动自动化测试系统入口

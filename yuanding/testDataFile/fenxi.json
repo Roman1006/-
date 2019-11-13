@@ -1,0 +1,42 @@
+{
+  "string_parameters": {
+    "type":1,
+    "examId": 6803
+  },
+  "examId":{"examId":"6803"},
+  "examId2":{
+    "examId":6803
+  },
+  "string_parameter": {
+    "type":2,
+    "examId": 6803
+  },
+  "classItem_data": {
+    "examId":"974",
+    "subject":"2",
+    "interfaces":{"classCondition":null,
+                  "classItemScore":null,
+                  "classSectionNumber":null,
+                  "classSelectance":null}
+
+  },
+  "student_NO1":{
+    "examId":"974",
+    "subject":"2",
+    "student":"周玲",
+    "interfaces":{"studentInAStep":null}
+  },
+  "jintuibu_data":{"examId":"974",
+    "subject":"2",
+    "interfaces":{"classInAStep":"1,10"}
+  },
+  "zhishidian_data":{"examId":"974",
+    "subject":"2",
+    "interfaces":{"classKnowledgePoint":"1,1,6"}
+  },
+  "examId_questionId":{
+    "examId":6803,
+    "questionId":34324
+  }
+
+}

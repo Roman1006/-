@@ -1,0 +1,3 @@
+appdev_api/test_login
+appdev_api/test_piyue
+appdev_api/test_fenxi

@@ -1,0 +1,4 @@
+# config.ini 配置文件
+# readConfig.py 读取配置文件信息
+
+## [EXCEL] 是Excel测试用例表格每一列对应的字母常量，用于后面的读取Excel表格数据使用，比如：用例标题case_name = D
